@@ -1,0 +1,7 @@
+streamlink===4.2.0
+Flask
+numpy
+opencv-python
+pyee
+Pillow
+pytest
